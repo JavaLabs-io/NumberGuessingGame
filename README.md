@@ -45,7 +45,7 @@ A beginner-friendly Java console application where the player tries to guess a r
 ### Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/JavaLabs-io/NumberGuessingGame.git
 cd NumberGuessingGame
 ```
 
